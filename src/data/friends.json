@@ -1,0 +1,17 @@
+[
+  {
+    "avatar": "https://i.pinimg.com/736x/7e/bd/33/7ebd339849d72b80f8f2181aa55a8432.jpg",
+    "name": "John Smith",
+    "isOnline": true
+  },
+  {
+    "avatar": "https://i.pinimg.com/736x/68/45/cc/6845cc07461a453c2e21069ff91dc635.jpg",
+    "name": "Emily Johnson",
+    "isOnline": false
+  },
+  {
+    "avatar": "https://i.pinimg.com/736x/73/1c/92/731c9298151bc39350fb76c754d53577.jpg",
+    "name": "Jason Burgers",
+    "isOnline": false
+  }
+]
